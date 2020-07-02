@@ -1,0 +1,9 @@
+
+#root{
+  position: relative;
+  margin: 0px auto;
+  background: #fbfbfb;
+  z-index: 1000;
+  width: 951px;
+  vertical-align: middle;
+}
